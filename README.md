@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -177,6 +177,7 @@ h1{
     
 </body>
 </html>
+```
 
 ## OUTPUT:
 
