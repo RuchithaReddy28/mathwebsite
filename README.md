@@ -180,7 +180,7 @@ h1{
 
 ## OUTPUT:
 
-![output]()
+![output](https://github.com/RuchithaReddy28/mathwebsite/blob/main/Screenshot%20(97).png?raw=true)
 
 
 
